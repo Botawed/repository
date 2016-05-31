@@ -4,3 +4,9 @@ C:\Users\Botawed\Desktop\лаб2\WindowsFormsApplication1\Model\bin\Debug\Model.
 C:\Users\Botawed\Desktop\лаб2\WindowsFormsApplication1\Model\obj\Debug\Model.exe
 C:\Users\Botawed\Desktop\лаб2\WindowsFormsApplication1\Model\obj\Debug\Model.pdb
 C:\Users\Botawed\Desktop\лаб2\WindowsFormsApplication1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Botawed\Desktop\Новая папка (7)\WindowsFormsApplication1\Model\bin\Debug\Model.exe.config
+C:\Users\Botawed\Desktop\Новая папка (7)\WindowsFormsApplication1\Model\bin\Debug\Model.exe
+C:\Users\Botawed\Desktop\Новая папка (7)\WindowsFormsApplication1\Model\bin\Debug\Model.pdb
+C:\Users\Botawed\Desktop\Новая папка (7)\WindowsFormsApplication1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Botawed\Desktop\Новая папка (7)\WindowsFormsApplication1\Model\obj\Debug\Model.exe
+C:\Users\Botawed\Desktop\Новая папка (7)\WindowsFormsApplication1\Model\obj\Debug\Model.pdb

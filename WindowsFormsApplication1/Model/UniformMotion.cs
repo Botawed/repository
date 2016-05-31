@@ -59,7 +59,9 @@ namespace Model
                 else _time = value;
             }
         }
-
+        /// <summary>
+        /// названия типа движения для таблицы
+        /// </summary>
         public string Type
         {
             get
