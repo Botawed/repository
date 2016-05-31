@@ -84,7 +84,9 @@ namespace Model
         {
             return StartingCoordinate + StartingSpeed * Time + Acceleration * Time * Time / 2;
         }
-
+        /// <summary>
+        /// названия типа движения для таблицы
+        /// </summary>
         public string Type
         {
             get
