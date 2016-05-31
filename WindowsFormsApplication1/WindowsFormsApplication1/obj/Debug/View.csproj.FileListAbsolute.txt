@@ -1,0 +1,6 @@
+C:\Users\Botawed\Desktop\lab_2\Model\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Add.resources
+C:\Users\Botawed\Desktop\lab_2\Model\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MotionCalculatorForm.resources
+C:\Users\Botawed\Desktop\lab_2\Model\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Search.resources
+C:\Users\Botawed\Desktop\lab_2\Model\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Botawed\Desktop\lab_2\Model\WindowsFormsApplication1\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Botawed\Desktop\lab_2\Model\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe

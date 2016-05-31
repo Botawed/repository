@@ -1,0 +1,6 @@
+C:\Users\Botawed\Desktop\lab_2\Model\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Botawed\Desktop\lab_2\Model\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Add.resources
+C:\Users\Botawed\Desktop\lab_2\Model\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.MotionCalculator.resources
+C:\Users\Botawed\Desktop\lab_2\Model\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Search.resources
+C:\Users\Botawed\Desktop\lab_2\Model\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Botawed\Desktop\lab_2\Model\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache

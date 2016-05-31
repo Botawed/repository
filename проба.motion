@@ -1,0 +1,12 @@
+[
+  {
+    "$type": "Model.UniformMotion, Model",
+    "_startingcoordinata": 2,
+    "_startingspeed": 1,
+    "_time": 3,
+    "StartingCoordinate": 2,
+    "StartingSpeed": 1,
+    "Time": 3,
+    "Type": "Uniform"
+  }
+]

@@ -1,0 +1,8 @@
+C:\Users\Botawed\Desktop\лаб2\WindowsFormsApplication1\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Botawed\Desktop\лаб2\WindowsFormsApplication1\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Botawed\Desktop\лаб2\WindowsFormsApplication1\UnitTests\bin\Debug\Model.exe
+C:\Users\Botawed\Desktop\лаб2\WindowsFormsApplication1\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Botawed\Desktop\лаб2\WindowsFormsApplication1\UnitTests\bin\Debug\Model.pdb
+C:\Users\Botawed\Desktop\лаб2\WindowsFormsApplication1\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Botawed\Desktop\лаб2\WindowsFormsApplication1\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Botawed\Desktop\лаб2\WindowsFormsApplication1\UnitTests\obj\Debug\UnitTests.pdb
